@@ -2,4 +2,5 @@
 
 Application screenshot
 
-<img width="1440" alt="screenshot" src="https://github.com/user-attachments/assets/8e3f4689-4d5f-4a60-9a2e-274e51a04cf1">
+
+<img width="1440" alt="final-screenshot" src="https://github.com/user-attachments/assets/1c2412e5-4708-4882-98ca-54bc942c94c5">
